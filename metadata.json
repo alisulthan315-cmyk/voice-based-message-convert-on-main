@@ -1,0 +1,5 @@
+{
+  "name": "Voice Cover Messenger",
+  "description": "A cross-platform voice messaging app that allows you to record messages and apply AI voice covers using Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
